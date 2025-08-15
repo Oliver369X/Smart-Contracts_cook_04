@@ -201,6 +201,5 @@ This project demonstrates:
 - **Scalability**: L2 solution for mass adoption
 - **Security**: Industry-standard security practices
 
----
 
-**Built for Mantle Hackathon 2024** 🚀
+
